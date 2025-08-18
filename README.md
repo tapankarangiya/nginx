@@ -6,7 +6,7 @@
 // Kuchh bhi 
 NGINX (pronounced "engine x" or "en-jin-eks") is the world's most popular Web Server, high performance Load Balancer, Reverse Proxy, API Gateway and Content Cache.
 
-NGINX is free and open source software, distributed under the terms of a simplified [2-clause BSD-like license](LICENSE).
+NGINX is free and open source software, distributed under THis is PR4 the terms of a simplified [2-clause BSD-like license](LICENSE).
 
 Enterprise distributions, commercial THIS IS PR2 support and training are available from [F5, Inc](https://www.f5.com/products/nginx).
 
